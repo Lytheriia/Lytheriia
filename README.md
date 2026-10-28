@@ -31,16 +31,12 @@
 
 <div align="center">
 
-<a href="https://github.com/dead-space-server/EridaGoob">
-  <img src="assets/eridagoob.svg" width="400" alt="EridaGoob">
-</a>
-<a href="https://github.com/nebula-station/space-station-14">
-  <img src="assets/nebula.svg" width="400" alt="Nebula">
-</a>
-<br>
-<a href="https://github.com/Lytheriia/ss14-discord-bridge">
-  <img src="assets/bridge.svg" width="400" alt="ss14-discord-bridge">
-</a>
+<p>
+<a href="https://github.com/dead-space-server/EridaGoob"><img src="assets/eridagoob.svg" width="400" alt="EridaGoob"></a>&nbsp;&nbsp;<a href="https://github.com/nebula-station/space-station-14"><img src="assets/nebula.svg" width="400" alt="Nebula"></a>
+</p>
+<p>
+<a href="https://github.com/Lytheriia/ss14-discord-bridge"><img src="assets/bridge.svg" width="400" alt="ss14-discord-bridge"></a>
+</p>
 
 ![EridaGoob stars](https://img.shields.io/github/stars/dead-space-server/EridaGoob?label=EridaGoob&style=for-the-badge&color=60a5fa&logo=github&logoColor=DBEAFE&labelColor=172033)
 ![Nebula stars](https://img.shields.io/github/stars/nebula-station/space-station-14?label=Nebula&style=for-the-badge&color=60a5fa&logo=github&logoColor=DBEAFE&labelColor=172033)

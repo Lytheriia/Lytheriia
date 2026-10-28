@@ -1,16 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="130" viewBox="0 0 400 130">
-  <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#172033"/>
-      <stop offset="1" stop-color="#1e2d4a"/>
-    </linearGradient>
-  </defs>
-  <rect x="0.5" y="0.5" width="399" height="129" rx="12" fill="url(#g)" stroke="#60a5fa" stroke-opacity="0.35"/>
-  <g font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif">
-    <text x="24" y="40" font-size="13" fill="#93c5fd" letter-spacing="2">✦ SS14 SERVER</text>
-    <text x="24" y="66" font-size="20" font-weight="600" fill="#60a5fa">EridaGoob</text>
-    <text x="24" y="90" font-size="13" fill="#DBEAFE">Erida's Space Station 14 server on Goob Station</text>
-    <circle cx="30" cy="110" r="5" fill="#178600"/>
-    <text x="42" y="114" font-size="12" fill="#93c5fd">C# · RobustToolbox</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <rect x="0.5" y="0.5" width="399" height="119" rx="10" fill="#0f172a" stroke="#60a5fa" stroke-opacity="0.4"/>
+  <path d="M0.5 28 V10.5 a10 10 0 0 1 10 -10 H389.5 a10 10 0 0 1 10 10 V28 Z" fill="#172033"/>
+  <circle cx="18" cy="14" r="5" fill="#60a5fa"/>
+  <circle cx="34" cy="14" r="5" fill="#93c5fd"/>
+  <circle cx="50" cy="14" r="5" fill="#DBEAFE"/>
+  <text x="210" y="18" font-size="11" text-anchor="middle" fill="#93c5fd" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace">~/projects/EridaGoob</text>
+  <g font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12.5">
+    <text x="16" y="54" fill="#60a5fa">$ <tspan fill="#DBEAFE">cat README</tspan></text>
+    <text x="16" y="76" fill="#93c5fd">Erida's SS14 server on Goob Station</text>
+    <text x="16" y="100" fill="#60a5fa">$ <tspan fill="#DBEAFE">stack</tspan> <tspan fill="#93c5fd">→ C# · RobustToolbox</tspan></text>
   </g>
 </svg>
