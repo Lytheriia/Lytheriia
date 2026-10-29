@@ -38,8 +38,8 @@
 <a href="https://github.com/Lytheriia/ss14-discord-bridge"><img src="assets/bridge.svg" width="400" alt="ss14-discord-bridge"></a>
 </p>
 
-![EridaGoob stars](https://img.shields.io/github/stars/dead-space-server/EridaGoob?label=EridaGoob&style=for-the-badge&color=60a5fa&logo=github&logoColor=DBEAFE&labelColor=172033)
-![Nebula stars](https://img.shields.io/github/stars/nebula-station/space-station-14?label=Nebula&style=for-the-badge&color=60a5fa&logo=github&logoColor=DBEAFE&labelColor=172033)
+![EridaGoob last commit](https://img.shields.io/github/last-commit/dead-space-server/EridaGoob?label=EridaGoob&style=for-the-badge&color=93c5fd&logo=git&logoColor=DBEAFE&labelColor=172033)
+![Nebula last commit](https://img.shields.io/github/last-commit/nebula-station/space-station-14?label=Nebula&style=for-the-badge&color=93c5fd&logo=git&logoColor=DBEAFE&labelColor=172033)
 ![Bridge last commit](https://img.shields.io/github/last-commit/Lytheriia/ss14-discord-bridge?label=bridge&style=for-the-badge&color=93c5fd&logo=git&logoColor=DBEAFE&labelColor=172033)
 
 </div>
@@ -51,11 +51,8 @@
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/-java-172033?style=for-the-badge&logo=openjdk&logoColor=93c5fd)
-![Spring](https://img.shields.io/badge/-spring-172033?style=for-the-badge&logo=spring&logoColor=93c5fd)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-172033?style=for-the-badge&logo=postgresql&logoColor=93c5fd)
 ![Redis](https://img.shields.io/badge/-redis-172033?style=for-the-badge&logo=redis&logoColor=93c5fd)
-![C#](https://img.shields.io/badge/-c%23-172033?style=for-the-badge&logo=dotnet&logoColor=93c5fd)
 ![.NET](https://img.shields.io/badge/-.net-172033?style=for-the-badge&logo=dotnet&logoColor=93c5fd)
 ![Docker](https://img.shields.io/badge/-docker-172033?style=for-the-badge&logo=docker&logoColor=93c5fd)
 ![Git](https://img.shields.io/badge/-git-172033?style=for-the-badge&logo=git&logoColor=93c5fd)
@@ -70,7 +67,7 @@
 
 <div align="center">
 
-![GitHub streak](https://streak-stats.demolab.com?user=Lytheriia&background=172033&border=172033&ring=60a5fa&fire=93c5fd&currStreakNum=DBEAFE&sideNums=DBEAFE&currStreakLabel=60a5fa&sideLabels=93c5fd&dates=93c5fd&stroke=60a5fa33&border_radius=12)
+![GitHub streak](https://streak-stats.demolab.com?user=Lytheriia&background=172033&border=172033&ring=60a5fa&fire=93c5fd&currStreakNum=DBEAFE&sideNums=DBEAFE&currStreakLabel=60a5fa&sideLabels=93c5fd&dates=93c5fd&stroke=60a5fa33&border_radius=12&v=2)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:60a5fa,100:172033)
 
